@@ -1,2 +1,2 @@
 # PureBlSource
-Source of pure bootloader
+Source of the pure bootloader, no specific platform code in it.
