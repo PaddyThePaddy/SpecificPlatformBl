@@ -1,0 +1,3 @@
+[submodule "PlatformPkg"]
+	path = PlatformPkg
+	url = git@github.com:PaddyDengAmi/SpecificPlatformPkg.git
